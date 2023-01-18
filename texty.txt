@@ -1,2 +1,1 @@
-hello world
-rude words like balls will need to be on a new branch
+I've decided I don't like the previous text and want to start a new paragraph entirely
